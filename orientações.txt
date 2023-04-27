@@ -1,0 +1,3 @@
+(venv) felipenmartins@felipenmartins-VirtualBox:~/Documentos/airflow$ export AIRFLOW_HOME=~/Documentos/airflow
+
+(venv) felipenmartins@felipenmartins-VirtualBox:~/Documentos/airflow$ airflow standalone
